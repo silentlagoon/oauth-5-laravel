@@ -25,7 +25,7 @@
     ],
     "require": {
         "php": ">=5.4",
-        "silentlagoon/oauth": "~0.3"
+        "silentlagoon/oauth-5-laravel": "~0.3"
     },
     "require-dev": {
         "illuminate/support": "~5"
