@@ -20,7 +20,7 @@
     "repositories":[
         {
             "type": "vcs",
-            "url": "https://github.com/silentlagoon/PHPoAuthLib.git"
+            "url": "https://github.com/silentlagoon/PHPoAuthLib"
         }
     ],
     "require": {
